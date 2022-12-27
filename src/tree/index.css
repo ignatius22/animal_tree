@@ -1,0 +1,18 @@
+.tree {
+    background-color: #efefef;
+    height: 100%;
+    padding: 10px;
+    font-family: monospace
+}
+
+.space-50{
+    margin-left: 50px;
+}
+
+.space-95{
+    margin-left: 95px;
+}
+
+.space-145{
+    margin-left: 145px;
+}

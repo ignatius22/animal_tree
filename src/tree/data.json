@@ -1,0 +1,18 @@
+{
+    "animals": [
+      {
+        "name": "mammal",
+        "family": [
+          { "name": "cheetah", "family": [] },
+          {
+            "name": "beer",
+            "family": [
+              { "name": "lion", "family": [] },
+              { "name": "dog", "family": [{ "name": "elephant", "family": [] }] }
+            ]
+          },
+          { "name": "ape", "family": [] }
+        ]
+      }
+    ]
+  }
