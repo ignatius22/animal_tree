@@ -2,7 +2,9 @@
     background-color: #efefef;
     height: 100%;
     padding: 10px;
-    font-family: monospace
+    font-family: monospace;
+    display:flex;
+    flex-direction: column;
 }
 
 .space-50{
@@ -15,4 +17,8 @@
 
 .space-145{
     margin-left: 145px;
+}
+
+.space-0{
+    margin-left: 0;
 }
